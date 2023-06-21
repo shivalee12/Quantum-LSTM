@@ -1,1 +1,11 @@
 # Quantum-LSTM
+Quantum computing is a rapidly evolving field that holds great promise for revolutionizing various areas of science and technology, including deep learning, with the goal of achieving faster and more accurate models. One of the most promising applications of quantum machine learning is the development of quantum neural networks, which are networks of quantum circuits that can learn and process information using quantum mechanics principles.
+
+The paper "Quantum Long Short-Term Memory" by S. Chen proposes a novel quantum neural network architecture called the Quantum LSTM (QLSTM), which is inspired by the classical Long Short-Term Memory (LSTM) networks commonly used in natural language processing and speech recognition tasks. The QLSTM is designed to overcome some of the limitations of classical LSTMs and enable efficient training and inference on quantum computing platforms.
+
+The main objective of this project is to implement and evaluate the QLSTM architecture proposed in the paper using a quantum computing platform. By doing so, we aim to demonstrate the potential of quantum computing for deep learning tasks and exploring the strengths and limitations of the QLSTM model compared to classical LSTMs.
+
+We would be trying the model on examples provided in the paper and also on tasks like Sequence classification, and language modeling. For this, we will tentatively be using the databases: "IMDB movie review dataset" and "WikiText dataset" respectively.
+
+The idea behind quantum-inspired neural networks is that they can potentially outperform classical neural networks on certain tasks, such as optimization problems or tasks that involve large amounts of data. This is because quantum-inspired neural networks can take advantage of quantum-like effects of superposition and entanglement to explore a much larger search space and potentially find better solutions than classical neural networks. Additionally, some quantum-inspired neural networks are designed to be more efficient in terms of computational resources than traditional neural networks, which is an important consideration for many practical applications.
+![image](https://github.com/shivalee12/Quantum-LSTM/assets/77015285/408346e0-2cb9-4375-93c0-fd210ddc6f41)
